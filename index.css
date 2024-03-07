@@ -28,3 +28,7 @@
   width: 320px;
   height: 180px;
 }
+.home-image {
+  width: 200px;
+  object-fit: cover;
+}
