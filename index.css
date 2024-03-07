@@ -15,3 +15,12 @@
   width: 320px;
   height: 180px;
 }
+.home-container1 {
+  flex: 0 0 auto;
+  width: 200px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 100px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
